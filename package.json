@@ -23,11 +23,9 @@
     "url": "https://github.com/EBAC-QE/ci-cd-teste-exemplo/issues"
   },
   "homepage": "https://github.com/EBAC-QE/ci-cd-teste-exemplo#readme",
-  "dependencies": {
-    "cypress": "^14.5.4"
-  },
   "devDependencies": {
     "allure-commandline": "^2.34.1",
+    "cypress": "^15.19.0",
     "mocha-allure-reporter": "^1.4.0"
   }
 }
